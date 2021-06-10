@@ -1,6 +1,6 @@
 import React from 'react';
 
-const key = '0e54fdc30e0f4fe8a4e1e372a825af9d';
+const key = 'cc078ceefb554832a79a7708207759ad';
 const CHUNK_SIZE = 5;
 const PAGE_CAPACITY = 40;
 
